@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace LoopPatterns
 {
+    //Program to Print Star Pattern
     class Program
     {
         static void Main(string[] args)
